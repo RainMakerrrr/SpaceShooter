@@ -14,20 +14,11 @@ public class SelectingLevelMenu : MonoBehaviour
         if (_playerData.CountOfAsteroids >= 35) _thirdLevelButton.interactable = true;
     }
 
-    public void FirstLevelHandler()
+    public void LevelLoader(int index)
     {
-        SceneManager.LoadScene(0);
-        GameScore.Instance.SetDefaultData();
-    }
-    public void SecondLevelHandler()
-    {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(index);
         GameScore.Instance.SetDefaultData();
     }
 
-    public void ThirdLevelHandler()
-    {
-        SceneManager.LoadScene(4);
-        GameScore.Instance.SetDefaultData();
-    }
+    
 }

@@ -4,7 +4,7 @@ public class PlayerShoot : MonoBehaviour
 {
     private JoyButton _joyButton;
     private float _nextShootTime = 0f;
-    private float _shootRate = 1.2f;
+    private float _shootRate = 2.8f;
 
     private void Start()
     {

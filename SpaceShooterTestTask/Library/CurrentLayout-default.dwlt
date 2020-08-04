@@ -113,7 +113,7 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 915, y: 322}
+  m_MinSize: {x: 917, y: 344}
   m_MaxSize: {x: 22012, y: 10022}
   vertical: 0
   controlID: 15
@@ -138,8 +138,8 @@ MonoBehaviour:
     y: 0
     width: 933
     height: 947
-  m_MinSize: {x: 200, y: 322}
-  m_MaxSize: {x: 4002, y: 8022}
+  m_MinSize: {x: 202, y: 344}
+  m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
   controlID: 16
 --- !u!114 &7
@@ -341,7 +341,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 4.050611, y: 9.931528, z: 6.4312897}
     speed: 2
-    m_Value: {x: 3.939095, y: 10.406333, z: 6.5078125}
+    m_Value: {x: 4.050611, y: 9.931528, z: 6.4312897}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -376,7 +376,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 20.300137
     speed: 2
-    m_Value: 21.256687
+    m_Value: 20.300137
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -600,7 +600,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 14180
+  m_LastSelectedObjectID: 14216
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -630,23 +630,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8a4d0000
+      m_SelectedIDs: 96340000
       m_LastClickedID: 0
-      m_ExpandedIDs: 48cdffff32cfffffc6d1ffff64d7ffffb0d7fffffcd7ffff48d8ffff94d8ffff00d9ffffb6daffffbce8ffffcee8ffff28e9ffff1aedffff66f2ffffeef2ffffb4f6ffffd4f7ffff6cfaffff72fbffff22370000503700004c3a00007a3a0000603e00008e3e0000763f00002c4600008c46000090460000605f00008e5f0000
+      m_ExpandedIDs: 98f8ffff66faffff72fbffff303700005e370000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Burst
-        m_OriginalName: Burst
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -6658
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -695,20 +695,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: F:\Unity Project\SpaceShooterTestTask
+  m_LastProjectPath: F:\Unity Project\SpaceShooter\SpaceShooterTestTask
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d02d0000
-    m_LastClickedID: 11728
-    m_ExpandedIDs: 00000000d02d0000f62d0000162e0000d62e00004a31000056310000ec3200004a330000d43300000834000000ca9a3b
+    m_SelectedIDs: 8a2f0000
+    m_LastClickedID: 12170
+    m_ExpandedIDs: 00000000d22d0000f82d0000182e0000dc2e00005c310000f432000054330000de3300006c350000fa360000fc36000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -736,7 +736,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d02d0000f62d0000d62e00004a310000ec3200004a330000d4330000ee3300000834000062350000
+    m_ExpandedIDs: 00000000d22d0000f82d0000182e0000dc2e00005c310000f432000054330000de330000fa360000fc360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -763,7 +763,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 064000000c4000000a3f0000ac4a00009c4a0000ea4f00001e3a0000c4300000be30000000000000862e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
